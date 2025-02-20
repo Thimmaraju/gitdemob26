@@ -1,0 +1,25 @@
+{
+  "name": "b26playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+
+       "command1" : "allure generate ./allure-results -o ./allure-report",
+       "command2" : "allure open ./allure-report",
+       "opentestreport": "npm run command1 && npm run command2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "allure-playwright": "^3.1.0",
+    "xlsx": "^0.18.5"
+  },
+  "dependencies": {
+    "allure-commandline": "^2.32.2",
+    "dotenv": "^16.4.7",
+    "moment": "^2.30.1"
+  }
+}

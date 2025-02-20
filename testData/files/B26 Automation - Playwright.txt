@@ -1,0 +1,2766 @@
+
+Introduction 
+
+why we should learn Playwright 
+
+who can learn Playwright
+Pre requisite knowledge to learn Playwright
+
+----
+Pre requisite software 
+
+Features of Playwright
+
+How to Install Playwright
+
+What you will you learn as part of this course 
+
+What benifits 
+
+----------------------------------------------------
+
+Raju 
+
+12 yrs 
+
+QA Lead 
+
+------
+
+Manual testing 
+
+Automation testing 
+
+Selenium + JAVA + TestNG 
+Selenium + C# + MSTest 
+
+Protractor + JS + Jasmine 
+Protractor + TS + Jasmine 
+
+Cypress + JS  + Mocha 
+
+
+Cypress + JS  + BDD 
+
+WDIO + TS + Mocha 
+
+Playwright + JS  + In built framework 
+
+
+API testing 
+
+Postman 
+
+SOAP UI 
+
+Sawgger 
+
+------------
+Cypress 
+Axios 
+Jest 
+
+--------------
+Performance Testing 
+
+Jmeter 
+App Dynamics 
+
+
+===========================================
+
+Automation tools :
+------------------
+
+Selenium
+
+Cypress 
+
+Playwright
+
+gotest
+
+Protractor 
+
+WDIO 
+
+Nightwatch 
+
+Puppeteer 
+
+Jest 
+axios
+
+katalon studio
+
+Tosca 
+
+
+
+
+
+UFT
+TestIm
+
+TestRigor 
+
+Test Complete 
+
+=================================
+
+Paid tools 
+
+Open source tools - 
+
+----------------------------
+
+UI Automation 
+
+Selenium 
+
+API Automation
+
+Rest Assured 
+Axios 
+
+----------------------------------------------
+
+UI + API 
+
+Slow 
+
+Fast 
+
+Easy work 
+complex work 
+
+===================================================
+
+Cypress  / Playwright
+
+=======================================
+
+UI framework
+
+Selenium  
+
+Protractor 
+
+Angular JS 
+
+-----
+React JS 
+Vue JS 
+Node js 
+
+------------------
+
+Cypress 
+
+limitations / Drawbacks 
+
+Playwright 
+
+======================================
+
+800
+
+Selenium 
+
+Playwright
+
+-------------------------------------------
+
+cypress - 2015 
+
+playwright - 4 yrs back 
+
+---------------
+
+Playwright
+
+1. Easy to work 
+
+2. Fast 
+
+3. Web + API + Visual testing + Intercepting (Spying , stubbing , Mocking)
+
+4. UI framework
+ 
+ React JS 
+ Vue JS 
+ Node Js 
+ Angular Js 
+ 
+5. Documentation / community spport 
+
+6. 
+
+Cypress  -  JS / TS 
+
+Playwright - JAVA , C# , Python , JS, TS 
+
+
+Login 
+Chrome, firefox , Edge , safari 
+
+7. Cross browser Testing 
+
+8. open source 
+
+9. Synchronization / Auto wait 
+
+Flakyness 
+
+500 - Test cases selenium  - 
+
+500 - test cases playwright - >90 % 
+
+Selenium / Playwright 
+Lauch the url 
+
+enter the username 
+
+Enter the password 
+
+click on login 
+
+Login success 
+
+
+10. in built drivers 
+
+chrome - 55 
+chrome - 120 
+
+11 fast
+
+
+12. Codegen 
+
+13. tracer , UI mode (Easy to debug the test cases)
+
+14. Backed by Microsoft 
+
+-----------------------------
+
+Manual testing , testing APIs manually 
+
+Scratch 
+
+Playwright + JS + Inbuilt framework
+
+Playwright + JS + BDD
+
+---------------------------------
+
+JS Basics 
+
+Git and GitHub 
+
+GitHub actions 
+
+-------------------------------------
+Pre requisite softwares 
+
+1. node js 
+   
+   node -v
+
+2. VS code / Any JS code editor 
+
+-----------------------
+create a folder 
+open it in vs code 
+
+in terminal 
+
+npm init playwright@latest
+
+=============================
+
+Difference between Automation vs Manual 
+
+Manual 
+
+ Testers 
+ 
+Automation 
+ Scripts 
+
+
+smoke test cases 
+
+70 
+
+800 test cases 
+
+--------------------------
+why we do automation / benifits of automation
+----------------------------------------------
+
+
+1. Fast 
+
+2. saves time 
+
+3. Reduce the stress on QA team 
+
+   Smoke tests 
+   
+   Regression Tests 
+   
+4. Reports 
+
+5. Accuracy 
+
+6. Automation provides than manaul 
+
+7. ROI 
+
+8. Parallel Testing 
+
+===========================
+800 
+
+chrome
+4 hours 
+
+
+200 
+200
+200
+200
+
+1 hour
+----------------------
+
+1700 - API 
+
+30 min 
+
+2 min
+
+7 days  
+
+3400 min 
+
+3400/60
+
+1500- UI 
+
+7 min 
+1 hour
+
+
+When we do automation 
+=====================
+
+100 % may not be possible 
+
+If there no more manual intervention 
+
+application should be stable 
+
+ROI More 
+
+---------------------------
+
+Factors to consider the tools:
+-------------------------------
+
+1. Open source / Paid 
+
+Open source 
+
+free
+
+5 features 
+
+security 
+
+----------------
+Selenium 
+Protractor
+Cypress 
+Playwright
+
+-----
+Tosca 
+UFT 
+telrik
+worksoft 
+
+-------------------------------------
+
+2. fast / slow 
+
+3. Web UI / Mobile / Desktop / API 
+
+
+4. Web UI 
+
+    Angular Js 
+	
+	React JS 
+	
+	Vue JS 
+	
+5. Language 
+
+  Selenium 
+   
+   Java, c# , python, Js, PHP, ruby 
+   
+  Cypress
+    JS/TS
+	
+  Playwright
+  
+   java, c# , python, Js/TS,
+
+6. OS support   
+
+7. Community support 
+
+8. Documentation
+ 
+9. Reports 
+
+10. features tool
+
+==========================================
+
+Difference between selenium vs Playwright
+
+Difference between cypress vs Playwright
+
+---
+
+
+Selenium 
+
+Angular JS 
+
+selenium based tool
+
+Protractor
+
+Appium  - Mobile application 
+
+wdio
+
+Serenity JS 
+
+UI / API
+
+--------------------------
+
+10000 
+
+
+cypress 
+
+Playwright
+
+
+7000 Java
+
+3000 
+
+=========================================
+Selenium vs Playwright
+1. both open source 
+
+2. Playwright - fast 
+   Selenium  - slow 
+   
+3. Selenium 
+    no reports 
+   Playwright 
+   Inbuilt reports 
+   
+4. Autowaits
+
+    Playwright - yes 
+	selenium - no
+5. UI framework support 
+
+  Angular Js 
+  React JS 
+  Vue
+  node  
+
+6. Playwright
+     UI / API / Visual testing  / Intercepting/ Emulation mobile 
+	 
+   selenium 
+     UI
+7. Architecture difference 
+
+    Json wire protocal - selenium
+	
+	HTTP request 
+	----
+	Playwright
+	
+	cdp  - chrome 
+	cdp+ 
+	
+	web socket 
+	event based
+	
+	
+8. OS support
+
+playwright - windows , mac , linux 
+
+selenium - windows , mac , linux, solaris 
+
+
+9. Language
+
+playwright - Java , C#, Pyhton , JS and TS 
+
+Selenium - Java, C#, Pyhton , JS and TS , perl , PHP 
+
+
+10. Set up 
+
+playwright - easy 
+
+selenium - complex
+
+11. 
+
+playwright - screenshots , videos 
+
+selenium - screenshots 
+
+
+====================================================
+Playwright vs Cypress 
+
+
+cypress 
+--------
+
+1. Cypress - works for single domain 
+   Playwright - no such limitation
+   
+2. Multi windows 
+  
+    cypress - switching from one window to another window is not possible 
+	playwright - no such limitation
+	              we can switch from one window to another window 
+				  
+
+3. playwright - fast 
+   cypress - fast 
+   
+4. Both open sourcee 
+
+
+5. Cypress - JS and TS 
+
+   Playwright - Java, C#, python, JS, TS
+
+6. Architecture 
+
+   Cypress - Run tests directly on browser 
+   
+   Playwright - Not directly
+   
+7. Cypress
+
+  cypress - not based on anytool (from scratch)
+  Selenium - Protractor - Angular
+
+             APPIum  - mobile APPs 
+   Playwright 
+       - Puppeteer 
+	   
+	--------------------------
+	
+8. Cypress 
+
+    cypress cloud - Paid 
+
+   Cloud reports - not available - Playwright	
+
+
+8. Parallel
+
+     chrome 
+     firefox
+     edge 
+     safari	 
+	
+=================================================
+
+Tester 
+
+ Manual 
+ Automation 
+ 
+--------------
+Manual - other 
+Automation - Automation tester 
+
+----------------------------------------------
+
+test 1
+ 
+ 
+ 1. Launch the url 
+ 
+    page.goto("url here")
+ 
+ 2. verify Logo visible 
+ 
+     expect(locator).toBevisible()
+ 
+Test 2
+
+   1. Launch the url
+   
+       page.goto("url here")
+   2. Enter valid username 
+   
+       page.locator(usernamefield locator).type("Admin")
+   
+   3. Enter valid password
+       
+         page.locator(passwordfiled locator).type("admin123")	   
+   
+   4. click on login button
+       page.locator(loginbutton locator).click()
+   
+   5. Verify user navigated to dashboard page 
+   
+Test 3
+
+   1. Launch the url
+   
+   2. Enter invalid username 
+   
+   3. Enter valid password 
+   
+   4. click on login button
+   
+   5. Verify user login error message 
+ 
+Test 4
+
+   1. Launch the url
+   
+   2. Enter valid username 
+   
+   3. Enter invalid password 
+   
+   4. click on login button
+   
+   5. Verify user login error message 
+   
+Test 5
+
+   1. Launch the url
+       
+	   page.goto("url")
+	   
+	   cy.visit("url")
+   
+   2. Enter invalid username 
+       page.locator(locator).fill()
+	   
+	   cy.get(locator).type("rjfnerinhj")
+   
+   3. Enter invalid password 
+       page.locator(locator).fill()
+	   cy.get(locator).type("rjfnerinhj")
+   
+   4. click on login button
+       page.locator(locator).click()
+	   cy.get(locator).click()
+   
+   5. Verify user login error message 
+   
+==========================
+
+
+npx playwright codegen "url"
+
+==========================================
+
+Locators 
+
+tools:
+
+letxpath
+selectorHUb 
+xpathhelper 
+
+How to write our own locator 
+
+==========================================
+
+Playwright test runner 
+
+CLI - command line interface 
+
+npx playwright test - will parallel 
+
+Playwright Test runner 
+
+ all tests 
+ 
+ single file 
+ 
+ single test 
+ 
+ debug the test 
+  breakpoint 
+  
+  Record test 
+  Record at cursor 
+  pick a locator 
+  
+  -------------
+  show browser 
+   
+  choosing multiple browser 
+  
+ ===============================================
+CLI 
+ 
+ npx playwright test --ui 
+ npx playwright test filename --ui --project=
+UI mode / Tracer 
+Time travelling 
+===============================================
+
+x = abc 
+
+y = xyz 
+
+condition - false 
+
+result = y
+
+result = condition ? x : y
+
+====================================
+configurations:
+===============
+
+testDir: "./tests" (Default)
+
+Retries : 3
+
+
+1st failed
+
+1st retry failed  
+2nd retry failed
+3rd retry failed
+-----------------------
+
+2 reasons 
+
+1. Scripts 
+
+2. Functionality not working 
+
+     Defect report 
+
+ --------------
+ 
+  workers : 2
+  
+  fullyParallel: false,
+  
+    chrome 
+	firefox 
+	edge 
+	chromium 
+	webkit 
+	
+	spec1.js
+	  test
+	spec2.js
+	test1
+	test2
+	test3
+	spec3.js 
+	
+	timeout: 30000 ms (30 sec)
+	
+	expect timeout  : 10000ms (5 sec)
+	
+	  reporter: ['line',"html"]
+	  
+	Trace
+	
+	video
+	screenshot
+=========================
+Inbuilt reporter 
+html 
+dot
+line
+list 
+blob
+json
+
+-------------------
+Allure reports 
+
+========================
+
+orangeHRm 
+
+baseURL : https://orangehrm.com
+
+
+await page.goto("https://orangehrm.com/web/index.php/auth/login")
+
+https://orangehrm.com + /web/index.php/auth/login
+
+https://orangehrm.com/web/index.php/auth/login
+
+globaltimeout 
+
+  500 test cases 
+  
+  3 hours 
+  
+  10800*1000
+  
+  3 hours 
+  
+==============================
+
+ClI - command line interface 
+
+To All the test in My project :
+
+npx playwright test   --project="Google chrome"
+
+(default - headless mode )
+
+npx playwright test  --project="Google chrome" --headed 
+
+============================
+I want ot run single file in Headless 
+
+npx playwright test addjobtitle.spec.js
+
+npx playwright test addjobtitle.spec.js --headed 
+
+==========
+Some Usefull commands 
+---------------------
+Run all the tests
+
+npx playwright test
+
+Run a single test file
+
+npx playwright test tests/addemployee.spec.js
+
+Run a set of test files
+
+npx playwright test tests/todo-page/ tests/landing-page/
+
+Run files that have my-spec or my-spec-2 in the file name
+
+npx playwright test my-spec my-spec-2
+
+Run tests that are in line 42 in my-spec.ts
+
+npx playwright test my-spec.js:42
+
+Run the test with the title
+
+npx playwright test -g "verify user can add Job title"
+
+Run tests in headed browsers
+
+npx playwright test --headed
+
+Run all the tests against a specific project
+
+npx playwright test --project=chromium
+
+Run single file the tests against a specific project
+
+npx playwright test addemployee.spec.js --project=chromium
+
+Disable parallelization
+
+npx playwright test --workers=1
+
+Choose a reporter
+
+npx playwright test --reporter=dot
+
+Choose a retries 
+
+npx playwright test --retries=3
+
+
+Choose a timeout 
+
+npx playwright test --timeout=60000
+
+Choose a timeout 
+
+npx playwright test --timeout=60000
+
+Choose a Trace 
+
+npx playwright test --trace on 
+
+Run in debug mode with Playwright Inspector
+
+npx playwright test --debug
+
+Run tests in interactive UI mode, with a built-in watch mode (Preview)
+
+npx playwright test --ui
+
+Ask for help
+
+npx playwright test --help
+
+Pick a different config file to run tests 
+
+-c <file> or --config <file>
+
+npx playwright test --config raju.playwright.config.js == to run all tests
+npx playwright test --config raju.playwright.config.js addjobtitle.spec.js == to run single file
+
+
+page.locator(xpathlocator).fill("admin")
+
+page.locator(xpathlocator).type("ernughn) // deprecated 
+
+page.locator(xpathlocator).presssequentially("admin", {delay: 1000})
+
+
+1000 ms - 1 sec 
+
+
+npm  - node pakage manager 
+
+npm install playwright 
+
+npx - node pakage executor 
+
+npx playwright test
+
+=========================================
+folder structure of playwright project:
+--------------------------------------
+
+Why we need JS 
+
+JS 
+
+Web pages 
+
+HTML + CSS + JS 
+
+2025 
+JS engine 
+
+Node JS 
+
+{
+
+
+}
+
+
+JS 
+
+Backend 
+AI 
+ML 
+
+=========================================
+
+
+I want Manufactur a car 
+
+KIA 
+
+tyres 
+glasses
+Engine 
+body 
+
+================================
+
+node js 
+
+npm - node pakage manage
+
+[calculator]
+add()
+
+substract()
+
+multiply()
+
+[playwright] 
+goto(string)
+
+page.goto(www.google.com)
+click()
+fill()
+
+[cypress] 
+
+visit()
+click()
+type()
+
+
+[abc]
+   [xyz]
+    [fs]
+	[awscore]
+	
+	str  = 'raju'
+	
+	str = "raju"
+	
+	str = `raju`
+	===============================
+	
+	Web Page 
+	
+=======================
+
+Playwright 
+
+  Java , .net (c#), python, JS , TS 
+  
+  Playwright + JS 
+  
+  
+  C 
+  
+  javascript 
+  
+  es6 
+  
+  JAVA
+  python
+  C++
+  C#
+  
+  2*2*2*2*2
+  
+  2**63
+  
+  var stuname = "     keerthana    "
+  
+  st2 = stuname.trim()
+  
+  {
+    const username = "admin"
+	
+	 {
+	 
+	 }
+	 
+	 {
+	 
+	 }
+	 
+	 
+	 {
+	 
+	 
+	 }
+  
+  
+  
+  
+  }
+  
+  =================================
+  Versions 
+    v1  1997
+	
+	es6  2015
+  
+  Variables 
+  
+   var 
+   let 
+   const 
+   
+ ================================
+ data types 
+ 
+ JAVA :
+ 
+ 
+ integer 
+ 
+ int x = 20 - 8 bytes 
+ 
+ float y = 20 - 16 bytes 
+ 
+ double 
+ 
+ ======================================
+ 
+ JAva/ c# /python
+ 
+ string x = 20
+ 
+ int x = 30
+ 
+ float y = 40
+ 
+ boolean x = true
+==========================================
+
+Datatypes 
+
+Primitives Datatypes
+
+1. string 
+
+2. number 
+
+3. boolean 
+
+4. undefined 
+
+5. null  // Object 
+
+Non Primitive Datatypes 
+
+arrays 
+
+elements 
+
+similar or different kinds of datatypes 
+objects 
+
+properties 
+
+
+Regular Expressions 
+ 
+Operators
+
+1. Artithemetic 
+
+ + - addtion  and concatination (Joining two strings)
+ 
+ - - substraction
+ 
+ * - Multiplication 
+ 
+ /  - devision 
+ 
+ % - Modulus  - remainder 
+ 
+ ++  - Increment operator 
+ --  - Decrement operator
+ 
+ x= 10
+ 
+ x++
+ 
+ console.log(x)
+
+2. comparision 
+
+==  - compare only values 
+=== - strict equal  - compare value and datatypes 
+>
+<
+>=
+<=
+3. logical 
+
+AND - gate 
+
+x   y     result 
+
+1   0		0
+
+0	0		0
+
+0	1		0
+
+1	1       1
+
+OR  - gate
+
+x   y     result 
+
+1   0		1
+
+0	0		0
+
+0	1		1
+
+1	1       1 
+
+NOT  - 
+
+x y 
+
+0 1
+
+1 0
+
+4. assignment operators
+
+= assignment operator 
+
+var x ; // decalration 
+
+var x = 20 // declaration and assignment
+
+x= 20
+
+x+=3 // x = x+3
+
+
+
+
+5. conditional opertaor / ternary operator 
+
+
+
+conditional
+
+if(condition)
+{
+
+
+
+}
+
+======================
+if(condition){
+
+
+
+
+}
+else{
+
+}
+
+=================================
+
+if (condition){
+
+
+
+}
+
+else if(condition){
+
+
+}
+
+esle if (){
+
+
+}
+else{
+
+}
+
+
+--------------
+
+Variables
+ 
+var 
+
+let 
+const 
+----
+Data types 
+
+Primitive
+1. Number 
+2. string 
+3. boolean 
+4. Undefined 
+5. null 
+Non Primitive 
+arrays
+objects 
+regular exp 
+
+==================
+Operators 
+
+Arthemetic 
+Logical 
+comparision
+Assignment 
+Ternary 
+
+------------------
+conditional
+------------
+if 
+
+if else 
+
+else if  
+
+switch 
+
+---------------------
+
+loops :
+-------
+for 
+while 
+do while 
+
+for of
+for in 
+forEach
+==========================
+Functions
+----------
+
+arrow functions 
+
+Working Objects 
+
+for in - es6 
+
+------------------------
+Arrays 
+
+
+1 to 100 
+
+Fizz  - 3 
+Buzz  - 
+Fizzbuzz  - 3 and 5
+otherwise print a number 
+
+=========================
+
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+fizzbuzz
+
+================
+Naukri 
+Linked in - 500 connections 
+  groups  
+found It 
+Insta hyre 
+----------------
+Lot of groups 
+ Playwright 
+   Discord 
+   Stack over flow 
+   facebook groups 
+   Instagram - testing 
+   ---
+   Articles 
+   --------
+   Medium 
+   utest 
+   dzone
+   -----
+   Testing trends 
+   
+   Magzines for testing 
+   ------------------------------------
+   
+   20 Jobs 
+   
+   8 calls 
+   
+   5 schedules 
+   
+=================================================
+
+How to work with Strings 
+
+Working with Number 
+
+v
+var x = 12
+
+Math.
+
+var date = new Date()
+
+date.
+
+class students {
+  
+  empname = "raju"
+   m1(){
+   
+      // statements 
+
+  }
+   
+    m2(){
+   
+      // statements 
+
+  }
+   
+   
+   g1(){
+     
+	
+	 // 5 statements 
+      this.m1()
+	  this.m2()
+	  
+	 // 5 statements 
+   }
+   
+
+
+}
+
+const st1 = new students()
+
+await page.locator(button).click({button:right})
+
+await page.locator(button).pressSequntially("Raju", {delay: 3000})
+
+==========================================
+
+for - in - Objects 
+
+for of - work with Arrays 
+
+--------------------------
+
+
+arry = ["mohan", "nagalakshm", "raju"]
+
+for(let empname of array){
+
+   test("create employee", ()=>{
+  // statements 
+   await page.locator(firstname locator).fill(empname) 
+
+   })
+
+}
+
+// data driven testing 
+
+
+arry = ["mohan", "nagalakshm", "raju"]
+
+arry.foreach( element => {
+
+   test("create employee", ()=>{
+  // statements 
+   await page.locator(firstname locator).fill(element) 
+
+   })
+
+})
+
+anonimous funmction 
+
+
+function add(){
+
+}
+
+function(){
+
+
+}
+=============================
+
+function step1(value, callback) {
+  callback(value + 10, false); // The callback is called with the result and error flag
+}
+
+step1(5, function(result, error) {
+  if (!error) {
+    console.log("Result: " + result); // If no error, print the result
+  } else {
+    console.log("An error occurred");
+  }
+});
+
+function add(num1,num1, ){
+
+   // block of code 
+}
+
+function (){
+
+    // block of code 
+}
+
+Mohan 
+  Neelakanta
+     Prakash 
+	    Suman
+
+========================
+
+var p = new Promose((resolve, reject)=>{
+
+         x = 1+1 
+		 
+		 if(x===2){
+		   
+		   resolve("Success")
+		 }
+		 else{
+		   reject("Fail")
+		 }
+
+     })
+	 
+p2 = Promise.resolve("xyz")
+
+p3 = Promise.reject("Abc")
+
+p4 = 100
+
+
+	 
+	 .then()
+	 
+	 .catch()
+	 
+Promise will have 3 states 
+
+  fullfilled 
+  rejected 
+  pending 
+  
+  page.locator("#username")
+  
+  =============================================
+ ============================================
+ 
+ features of Playwright 
+ 
+ selenium vs Playwright
+ 
+ Cypress vs Playwright
+ 
+ Prerquisites to install 
+ Node JS 
+ Vs code / Webstrom 
+ 
+ -----------------------
+ 
+ npm install Playwright@latest
+ 
+ npm install Playwright@1.0.0
+ 
+ ===========================
+ folder structure 
+
+ ==============================
+ Semantic versioning 
+   
+  "^1.49.1"
+ 
+===================================================
+
+  hooks
+     4 hooks   
+  grouping 
+     describe
+  tags
+     @smoke @regression
+  annotations 
+     .only 
+	 .skip
+	    based on condition
+	 .fixme()
+	 .fail()
+ 
+======================================================
+
+
+test("test case title", async ({page, browser, context , browserName}) =>{
+
+  await page.goto("url")
+  
+  await page.locator("fkvn")
+
+})
+ 
+=======================================
+
+test("verify user can do payment using credit card", ){
+  
+  // launch url 
+  //login
+  // select product 
+  // add cart 
+  //check out 
+  // Payment with credit card 
+  //Order success
+
+
+})
+
+
+test("verify user can do payment using UPI card", ){
+  
+  // launch url 
+  //login
+  // select product 
+  // add cart 
+  //check out 
+  // Payment with UPI
+  //Order success
+
+
+})
+
+
+
+test("verify user can do payment using Net Banking ", ){
+  
+  // launch url 
+  //login
+  // select product 
+  // add cart 
+  //check out 
+  // Payment with Bank account 
+  //Order success
+
+
+})
+
+test("verify user can do payment using debit card ", ){
+  
+  // launch url 
+  //login
+  // select product 
+  // add cart 
+  //check out 
+  // Payment with debit card
+  //Order success
+
+
+})
+
+
+test("verify user can chhose COD ", ){
+  
+  // launch url 
+  //login
+  // select product 
+  // add cart 
+  //check out 
+  // Choose COD
+  //Order success
+
+
+})
+
+====================================
+
+
+test.beforeAll(){
+
+   // Before Executing any test it will be executed 
+}
+
+test.afterAll(){
+
+   // Before Executing any test it will be executed 
+}
+
+test.beforeEach(){
+
+  //5 lines 
+}
+
+test.afterEach(){
+
+  //5 lines 
+}
+
+test1(){
+ 
+   other script
+}
+
+
+test2(){
+ 
+   other script
+}
+
+test3(){
+ 
+   other script
+}
+ 
+ 
+======================
+BeforeAll
+
+beforeEach
+test 1
+AfterEach
+
+BeforeEach
+test2
+AfterEach
+
+BeforeEach
+test3
+AfterEach
+
+BeforeEach
+test4
+AfterEach
+
+AfterALL
+
+=================================
+
+Grouping the tests 
+
+test.describe("Verif login functionality", async ()=>{
+
+Test1{
+
+}
+
+test2{
+}
+
+})
+
+Suite - collecttion 
+
+test.describe("group 2",)
+
+==============================================
+Hooks 
+
+ BeforeAll 
+ BeforeEach
+ AfterEach 
+ AfterAll
+ 
+Grouping the tests 
+
+test.describe(){
+
+
+  test.describe.only(){
+   test1()
+  
+  test2()
+  
+  }
+  
+  test.describe.skip(){
+  test1()
+  
+  test2()
+  
+  test()
+  
+  }
+
+}
+=================================
+
+Annotations 
+
+.only 
+.skip
+
+test.fixme() - it will also skip
+
+test.fail()
+
+even throgh You test is fail - it mark as pass 
+
+if pass - 
+
+====================
+Tagging
+
+@Smoke
+@regression 
+
+@admin
+
+@POM 
+
+tag: "@smoke"
+
+tag : ["@smoke", "@regression"]
+
+npx playwright test --grep "@POM"
+
+npx playwright test -g "@POM"
+
+npx playwright test --grep-invert "@POM"
+
+===================================================
+
+playwright 
+await page.goto("/web/index.php/auth/login")
+
+cypress
+
+cy.visit("/web/index.php/auth/login")
+
+=============================================
+
+selenium 
+
+driver.findElement(by.selector('input[name="username"]')).sendKeys("admin")
+
+playwright 
+
+await  page.locator('input[name="username"]').fill("admin")
+
+cypress 
+
+cy.get('input[name="username"]').type("Admin")
+
+==================
+
+letXpath
+
+SelectorHub 
+
+xpath helper 
+
+Pick a locator 
+
+browser 
+
+===================================================
+
+Selenium 
+
+1. Id
+
+2. class 
+
+3. tagname
+
+4. link text
+
+5. Partial link text
+
+6. xpath 
+
+7. css 
+
+8. Name 
+
+==============================
+
+Cypress 
+
+CSS 
+
+============================
+
+Playwright
+
+
+
+1. Id
+
+2. class 
+
+3. data-test id 
+
+4. text
+
+5. role
+
+6. xpath 
+
+7. css 
+
+8. Placeholder 
+
+9. AREA locator 
+================================
+
+
+await page.locator()
+
+
+==================
+DOM - Document Object Model 
+
+<html> - root node 
+
+tagname - first keyword in the node 
+attributes 
+
+attribute name and attribute values 
+
+edit box 
+
+input 
+check box 
+
+input type="checkbox"
+
+radio button
+
+input type="radio"
+
+table 
+
+table 
+  thead 
+  tbody 
+    tr 
+	td 
+links 
+
+a - tagname 
+
+dropdown 
+
+select 
+
+   <option 
+   
+   <option
+===============================================
+
+xpath 
+
+xml path 
+
+xml - extended markup language 
+
+xpath 2 types 
+
+1. Absolute xpath 
+
+    / - always starts with single slash 
+	
+	always starts from root node 
+	
+	ex: 
+	
+	/html/body/div/div[1]/div/div[1]/div/div[2]/div[2]/form/div[1]/div/div[2]/input
+
+2. Relative 
+   
+   
+   // -always starts with double slash 
+
+   	always starts from relative node    
+	
+	//tagname[@attribute="attributevalue"]
+	
+	//input[@name="username"]
+	
+	
+	
+await page.locator('//input[@placeholder="Username"]').fill("admin")
+	//or
+await page.locator(xpath = '//input[@placeholder="Username"]').fill("admin")
+	
+1. 	 basic syntax 
+
+         //tagname[@attribute="attributevalue"]
+	
+	     //input[@placeholder="Username"]
+		 
+
+2. Text
+
+   //tagname[text()="full text"]
+   
+   //p[text()='Username : Admin']
+   
+   //p[text()="Forgot your password? "]
+
+
+3. Partial text
+
+    //taganme[contains(., "partial text")]
+	
+	//p[contains(., "Forgot your")]
+	
+4. AND
+
+   both Attributes should be present 
+
+   //tagname[@attrbute1="attributevalue"][@attrbute2="attributevalue"]
+   
+   or 
+   //tagname[@attrbute1="attributevalue" and @attrbute2="attributevalue"]
+   
+   
+   //input[@type="password"][@name="password"]
+   
+5. OR 
+
+   Any one attribute should be present 
+   
+      //tagname[@attrbute1="attributevalue" or @attrbute2="attributevalue"]
+	  
+	    //input[@type="password" or @name="rajju"]
+		
+6. starts with - prefix 
+
+  //tagname[@attr="attrvalue"]
+  
+  <input  id="raju1234"
+  
+  <input  id="raju3435"
+  
+  //tagname[starts-with(@attr, "prefixvalue")]
+  
+  //input[starts-with(@name, "name")]
+  
+  //input[starts-with(@name, "name")]
+  
+7. indexing 
+
+xpathexpression  - 3 different elements
+
+(expression)[1] - first matching element
+
+(//a[@class="oxd-main-menu-item"])[1]
+
+(//a[@class="oxd-main-menu-item"])[3]
+
+(expression)[last()]
+
+(//a[@class="oxd-main-menu-item"])[last()]
+
+
+8. Traversing parent to child 
+
+  parentnode expression / child node tagname
+  
+  //a[@href="/web/index.php/buzz/viewBuzz"]/span
+
+   //div[@id="app"]/div/div/aside/nav
+   
+9. child to parent node traversing 
+
+   childnode expression/..
+   
+   //td[text()='Jason']/..
+   
+   //td[text()='Full Name']/../td[3]
+   
+10 Axes methods
+   following 
+   following-sibling
+   parent 
+   ancestor 
+   decendent
+   
+   expression//following::expresion
+   
+   expression//ancestor::expresion
+   
+   //div[@id='app']//following::ul
+   
+   //ul[@class="oxd-main-menu"]/parent::div
+   
+   //ul/li[1]/following-sibling::li[2]
+   
+   
+   {
+   
+     <div id="app"
+   
+   
+   
+   }
+   
+=============================================
+CSS 
+
+Cascading style sheets 
+
+await page.locator('input[placeholder="Username"]').fill("admin")
+	
+	//or
+	
+await page.locator(CSS = 'input[placeholder="Username"]').fill("admin")
+	
+1. Basic syntax 
+
+    //tagname[@attr="attrvalue"] -xpath
+	
+	tagname[attr="attrvalue"] - CSS
+	
+	input[name="username"]
+	
+	button[type="submit"]
+	
+2. Text 
+
+   //tagname[text()="fulltext"] - xpath
+   
+ **  Not possible to write CSS locator using Text 
+   
+   Text 
+   page.getByText('Invalid credentials')
+   
+   page.locator(//p[text()="Invalid credentials")
+   
+3. AND 
+
+Both Attributes should be present
+
+   //tagname[@attr1="attrvalue"][@att2="attrvalue"] - xpath 
+   
+    tagname[attr1="attrvalue"][att2="attrvalue"]
+	
+	input[name="password"][placeholder="Password"]
+	
+OR logic not there in css 
+
+
+4. ID attribute 
+
+***
+ #idvalue 
+ 
+ #newpasswd - css
+ 
+ input[id="newpasswd"] - css
+ 
+ //input[@id="newpasswd"] - xpath
+ 
+5. class 
+
+.clasvalue
+
+.orangehrm-login-layout
+
+class = "raju prakash mohan"
+
+.raju.prakash.mohan
+
+.class1.class2.class3
+
+class="oxd-input oxd-input--active"
+
+.oxd-input.oxd-input--active
+
+6. starts-with 
+
+//tagname[starts-with(@attr, "prefixvalue")] -xpath
+
+  tagname[attrname^="prefixvalue"]
+  
+  input[name^="name"]
+  
+  name=nametrighr
+  name=nameetrhjg
+  
+7. Ends with suffix 
+
+ tagname[attrname$="prefixvalue"]
+ 
+  input[name$="name"]
+  
+  id= jergiuhRaju
+  
+  id = njfgkkRaju
+  
+  input[id$="asswd1"]
+  
+8. contains 
+
+ tagname[attrname*="prefixvalue"]
+ 
+ input[name*="name"]
+ 
+9. indexing in xpath
+
+ (//a[@class="oxd-main-menu-item"])[2] - xpath
+ 
+ (a[class="oxd-main-menu-item"])[2] - this not valid 
+ 
+  page.locator('a[class="oxd-main-menu-item"]').first()
+ 
+  page.locator('a[class="oxd-main-menu-item"]').nth(0)
+ 
+  page.locator('a[class="oxd-main-menu-item"]').last()
+ 
+ 
+ page.locator('(//a[@class="oxd-main-menu-item"])[2]').click() - xpath
+ 
+ page.locator('a[class="oxd-main-menu-item"]').nth(1).click() - css
+ 
+10. Parent to child 
+
+  Parentnode expression/child  - xpath
+  Parentnode expression > child  - css
+  
+  //a[@href="/web/index.php/pim/viewPimModule"]/span - xpath
+  
+  a[href="/web/index.php/pim/viewPimModule"]>span - css 
+  
+  //*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul
+  
+  #app > div:nth-type(1) > div:nth-type(1) > aside > nav > div:nth-type(2) > ul
+  
+  nav/div[2] - xpath 
+  
+  nav/div:nth-type(2) - css
+
+11. child to parent 
+
+   Traversing back to parent is not possible in css  
+   
+   <div
+      <input 
+	  
+	  input/..  - it will locate div 
+	  
+	In playwright 
+	
+	await page.locator("input", { has: page.locator('div') })
+	
+12. following-sibling 
+    
+	cssexpression + following-siblingnode
+
+    aside[class="oxd-sidepanel"] +header
+	
+Playwright In-built locators 
+
+
+These are the recommended built-in locators.
+
+page.getByRole() to locate by explicit and implicit accessibility attributes. w3 standards
+page.getByText() to locate by text content.
+page.getByLabel() to locate a form control by associated label's text.
+page.getByPlaceholder() to locate an input by placeholder.
+page.getByAltText() to locate an element, usually image, by its text alternative.
+page.getByTitle() to locate an element by its title attribute.
+page.getByTestId() to locate an element based on its data-testid attribute (other attributes can be configured).
+
+
+await page.goto("https://trello.com/")
+await page.getByText("Log in").click()
+
+await page.getByText(text="Log in").click()
+
+await page.locator("#username").fill("rajutester2673@gmail.com")
+
+
+await page.locator(css = "#username").pressSequntially("rajutester2673@gmail.com")
+
+
+await page.locator("#username").type("rajutester2673@gmail.com")
+
+
+await page.locator('//input[@id="username"]').fill("rajutester2673@gmail.com")
+
+
+await page.locator(xpath ='//input[@id="username"]').fill("rajutester2673@gmail.com")
+
+await page.getByPlaceholder("Enter your email").fill("rajutester2673@gmail.com")
+
+await page.getByTestId('username').fill("rajutester2673@gmail.com")
+
+
+=========================
+
+Web Elements 
+
+1. button 
+
+2. Edit box 
+
+3. Text 
+
+4. checkbox 
+
+5. Radio
+
+6. Tables 
+
+7. Drag and drop 
+
+8. Images 
+
+9. links 
+
+10. pop ups 
+
+11. drop down
+
+12. Upload file 
+
+13. download file 
+
+14. Go to new tab and verify some thing
+
+
+==============================
+
+POM 
+
+Working with different types of elments 
+
+API Automation 
+
+Allure reports 
+
+git and github
+
+CICD 
+
+github workflow 
+===============
+
+BDD cucumber 
+
+---------------------------------------------
+
+Chat gpt 
+
+deep seek 
+
+GitHub copilot 
+
+==================================================
+
+arr = [2,6,"raju", "neel", 5,9,34,23,7]
+
+loop the array element 
+
+
+Even Number 
+Even Number
+Not a number 
+Not a Number
+Odd Number 
+
+===================================================
+************************************
+
+General concept in automation 
+Selenium
+cypress
+Playwright
+WDIO 
+
+===========================
+
+Reusability 
+Maintanance will easy
+
+=============================
+Design Pattern 
+
+35+
+
+1. POM 
+2. Screenplay pattern - serenity JS 
+3. Page Factory 
+4. Actions
+5. Single ton Pattern 
+6. Data driven 
+
+
+=======================
+
+
+
+// test('test', async ({ page }) => {
+//   await page.goto('https://www.saucedemo.com/v1/index.html');
+//   await page.locator('[data-test="username"]').click();
+//   await page.locator('[data-test="username"]').fill('standard_user');
+//   await page.locator('[data-test="password"]').click();
+//   await page.locator('[data-test="password"]').fill('secret_sauce');
+//   await page.getByRole('button', { name: 'LOGIN' }).click();
+//   await page.getByText('Products').click();
+//   await expect(page.getByText('Products')).toBeVisible();
+// });
+
+
+Mocha 
+
+describe 
+
+test -- it 
+
+==============================================
+// Playwright version of clicking multiple elements
+const elements = await page.$$(locator); 
+// Select all matching elements
+for (let element of elements) {
+  await element.click();
+}
+
+====================================
+
+PO Page 
+data preparsation - json 
+spec 
+===================================
+
+Web Elements 
+
+1. Button 
+
+await expect(page.locator(locator)).toBevisible()
+
+//Present in the DOM and visible in rendered screen 
+
+await expect(page.locator(locator)).not.toBevisible()
+
+//Present in the DOM but not visible in rendered screen
+
+await expect(page.locator(locator)).toBePresent()
+//Present in the DOM 
+
+await expect(page.locator(locator)).toBeEnabled()
+
+await expect(page.locator(locator)).toBeDisabled()
+
+await expect(page.locator(locator)).not.toBeDisabled()
+
+await page.locator(locator).click()
+
+How click on hidden element  ****
+
+await page.locator(locator).click({force:true})
+
+How Double click on element  ****
+
+await page.locator(locator).dblclick()
+
+
+How Right click on element  ****
+
+await page.locator(locator).click({button: 'right'})
+
+
+Mouse Hover 
+
+await page.locator(locator).hover()
+
+
+How click on an element based on Position 
+
+await page.locator(locator).click({position: {x:345, y:234}})
+
+2. Edit box / Input box 
+
+await page.locator(locator).fill("jrfbg")
+
+//or 
+
+await page.fill("locator", "jrfbg")
+
+--------
+await page.locator(locator).type("jrfbg")
+
+//or 
+
+await page.type("locator", "jrfbg")
+
+---------------------------
+
+await page.locator(locator).pressSequntially("jrfbg")
+
+//or 
+
+await page.pressSequntially("locator", "jrfbg")
+
+
+press()
+
+to press keyboard values 
+
+--------------------------
+
+await expect(page.locagtor(locator)).toBeVisible()
+await expect(page.locagtor(locator)).toBeEnabled()
+await expect(page.locagtor(locator)).toBeDisabled()
+await expect(page.locagtor(locator)).toBePresent()
+await expect(page.locagtor(locator)).toBeEmpty()
+
+to clear the text inside the Edit box 
+
+await page.locagtor(locator).clear()
+
+=======================
+ 
+
+3. checkbox 
+
+   tagname - 
+   
+   .check()
+v
+   
+   await page.locator(locator).check()
+   
+   cypress - 2015 
+   playwright - 2020 
+
+4. Radio
+
+tagname - Input 
+type="radio"
+
+.check()
+
+5. drop down
+
+<select 
+   <option
+   <option
+   <option 
+   <option
+   
+   await page.locator(locator).selectOption("kenm")
+   
+   3 ways 
+   
+   1. text 
+      await page.locator(locator).selectOption("Anguilla")
+	  
+	  or 
+	  
+	  await page.locator(locator).selectOption({label: "Anguilla"})
+	  
+   2. Value 
+
+
+       await page.locator(locator).selectOption("12")
+	   
+	   or 
+	   await page.locator(locator).selectOption({value : "12"})
+	   
+	3. Index 
+	  
+	     await page.locator(locator).selectOption({index : 5})
+	
+6. Text
+
+   .toHaveText("jebwnjrhbn")
+   --------------
+   .textContent()
+   
+   .allTextContents()
+   ------------------
+   .innerText()
+   
+   .allInnerTexts()
+
+7. alerts 
+***************
+
+alerts  vs pop up 
+
+
+alerts - window based component 
+
+pop up - html based component 
+
+
+3 types alerts 
+
+1. alert 
+
+      page.on('dialog', async dialog => {
+      expect(dialog.message()).toBe('I am a JS Alert');
+      await dialog.accept(); // Accept the alert
+    });
+
+2. confirm
+
+       page.on('dialog', async dialog => {
+      await dialog.accept();
+    });
+	
+	 page.on('dialog', async dialog => {
+      await dialog.dismiss();
+    });
+
+3. prompt 
+
+    page.on('dialog', async dialog => {
+      await dialog.accept('Nagalakshmi'); // Enter the value and accept
+    });
+
+   page.on('dialog', async dialog => {
+      await dialog.dismiss(); // Enter the value and accept
+    });
+
+
+ 
+=================================
+8. Drag and drop
+
+await page.locator(source).dragTo(page.locator(target));
+
+await page.locator('#menu-fried-chicken').dragTo(page.locator('#plate-items'))
+
+9. Images 
+
+await expect(page.locator(locator)).toBeVisible()
+
+await expect(page.locator(locator)).toBePresent()
+
+10 Canvas 
+
+Canvas element Can not be Automated 
+
+await expect(page.locator(locator)).toBeVisible()
+
+await expect(page.locator(locator)).toBePresent()
+
+11. Captcha 
+
+Canvas element Can not be Automated
+
+
+12. links 
+
+await expect(page.locagtor("//a")).toHaveCount(3)
+
+//a 
+
+href - attribute 
+
+await page.locator('//a[@href="//gl.wikipedia.org/"]').click({force: true})
+
+
+
+13. tabs  (Go to new tab and verify some thing)
+
+
+    const [newTab] = await Promise.all([
+      page.waitForEvent('popup'),
+      page.click('//a[normalize-space()="Click Here"]')
+    ]);
+
+    // console.log(newTab.url());
+    // expect(await newTab.title()).toBe('New Window');
+
+    const textvalue = await newTab.locator('.example>h3').textContent();
+
+    console.log("Text on new page:", textvalue);
+	
+	//(or )
+	
+	 const newPagePromise = page.waitForEvent('popup');
+    const newPage = await newPagePromise;
+    await newPage.waitForLoadState();
+
+    const textvalue = await newPage.locator('.example>h3').textContent();
+
+14. Tables 
+
+await expect(page.locagtor("//table")).toHaveCount(2)
+
+await expect(page.locagtor("#table1>tbody>tr")).toHaveCount(4)
+
+await expect(page.locagtor("#table1>tbody>tr:nth-child(1)>td")).toHaveCount(6)
+
+const coloumns = await page.$$("#table1>tbody>tr:nth-child(1)>td")
+
+console.log(coloumns.length)
+const textvalue = await page.locagtor('#table1>tbody>tr:nth-child(4)>td:nth-child(4)')).textContent()
+
+
+==================================================
+
+15. New context
+
+16. Upload file 
+
+17. download file 
+
+18. Combo box
+
+
+19. Videos
+
+20. scrolling 
+
+21. Iframes 
+
+22. Shadow DOM elements
+
+23.reload 
+
+22. conditional testing 
+
+--------------
+
+How to avoid every time login
+
+Allure reports
+
+x
+Intercepting
+
+BDD
+
+git and GitHub
+
+gitHub Actions 
+
+=========================
+
+
+8 am to 9 AM - 1 hour 
+
+15 min
+
+9.15 t0 10.15 AM IST 1 hour 
+=================================
+
+
