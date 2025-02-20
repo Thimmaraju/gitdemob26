@@ -57,7 +57,7 @@ test('PUT API', async ({ request }) => {
 
   const updateuser = await request.put(`https://reqres.in/api/users/2`, {
     data: {
-      "name": "raju",
+      "name": "raju123",
       "job": "trainer"
     }
   });
@@ -82,7 +82,9 @@ test('DELETE API', async ({ request }) => {
 
 });
 
-//Real time project APIS 
+
+
+//Real time project APIS  - Modified 
 
 
 test('Playwright Test Case - Understanding GET Method', async ({ request }) => {
