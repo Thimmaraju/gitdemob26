@@ -29,7 +29,7 @@ test.describe("Verify Login functionality", async () => {
   });
 
 
-  test.only('Verify login with valid credentials', async () => {
+  test('Verify login with valid credentials', async () => {
 
 
     await page.locator('input[name="username"]').fill("Raju")

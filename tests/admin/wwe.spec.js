@@ -149,7 +149,7 @@ test.describe('Automation - Working With Elements', () => {
    
       })
 
-      test.only('Working with Shadow DOM2', async ({ page }) => {
+      test('Working with Shadow DOM2', async ({ page }) => {
 
       await page.goto('https://books-pwakit.appspot.com/')
       await page.locator('#input').fill('Science')

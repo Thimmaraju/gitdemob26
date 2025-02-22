@@ -92,7 +92,7 @@ test('Working with Radio button - example', async ({ page }) => {
 
 })
 
-test.only("Working with text", async ({ page }) => {
+test("Working with text", async ({ page }) => {
 
     await page.goto("https://www.flipkart.com/")
 

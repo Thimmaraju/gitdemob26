@@ -43,7 +43,7 @@ test.describe('Automation - Working with Alerts', () => {
     await page.waitForTimeout(5000)
   });
 
-  test.only('Playwright Test Case - test prompt Alert - Ok', async ({ page }) => {
+  test('Playwright Test Case - test prompt Alert - Ok', async ({ page }) => {
     // Trigger the prompt alert
     page.locator('text=Click for JS Prompt').click();
 

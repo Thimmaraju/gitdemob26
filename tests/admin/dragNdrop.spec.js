@@ -98,7 +98,7 @@ test.describe('Automation - Working With Elements', () => {
 
   })
 
-  test.only("browse context test", async () => {
+  test("browse context test", async () => {
     const browser = await chromium.launch({ headless: false });
     const context1 = await browser.newContext();
     const context2 = await browser.newContext();
